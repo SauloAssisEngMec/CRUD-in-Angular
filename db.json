@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "second hand",
+      "price": 21,
+      "comment": "sa",
+      "date": "2022-07-13T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "second hand",
+      "price": 21,
+      "comment": "sa",
+      "date": "2022-07-13T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "7s",
+      "category": "Electronic",
+      "freshness": "brand new",
+      "price": 1000,
+      "comment": "Brand new",
+      "date": "2022-07-15T03:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "test",
+      "category": "Vegetables",
+      "freshness": "brand new",
+      "price": 12,
+      "comment": "saulo",
+      "date": "2022-07-15T03:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
