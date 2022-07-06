@@ -28,11 +28,11 @@
       "id": 4
     },
     {
-      "productName": "test",
-      "category": "Vegetables",
+      "productName": "banana",
+      "category": "Fruits",
       "freshness": "brand new",
       "price": 12,
-      "comment": "saulo",
+      "comment": "saa",
       "date": "2022-07-15T03:00:00.000Z",
       "id": 5
     }
